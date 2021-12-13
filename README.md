@@ -5,7 +5,7 @@
 
 First we clone the project to the local folder and locate the project file.
 ```
-git clone https://gitlab.com/farukceylandag/estateapi.git
+git clone https://github.com/farukceylandag/estateapi.git
 cd estateapi
 ```
 Then we serve our project in the local folder and edit the database connections and migrate the .env file.
