@@ -21,7 +21,7 @@ class AppointmentController extends Controller
         $this->appointment = $appointment;
         $this->icebergEstatesLatitude = 51.729157; //Iceberg Estates Latitude (cm27pj)
         $this->icebergEstatesLongitude = 0.478027; //Iceberg Estates Longitude (cm27pj)
-        $this->googleMapsKey = 'AIzaSyBdQNB4osMEUmQN6ZH4pGD52sfDpeGWeek'; //Google Maps Directions API Key
+        $this->googleMapsKey; //Google Maps Directions API Key
     }
 
 
