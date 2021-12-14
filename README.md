@@ -14,7 +14,7 @@ Then we serve our project in the local folder and edit the database connections 
 php artisan serve
 php artisan migrate (or php artisan migrate --seed) //for dummy user and contact data
 ```
-Go to **app/Http/AppointmentController.php** and write ```[YOUR_GOOGLE_DIRECTIONS_API_KEY]``` to ```$this->googleMapsKey```.
+Go to **app/Http/Controller/AppointmentController.php** and write ```[YOUR_GOOGLE_DIRECTIONS_API_KEY]``` to ```$this->googleMapsKey```.
 
 
 # <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"  width="30" style="display:flex"> Postman Collection
