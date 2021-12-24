@@ -32,4 +32,3 @@ Go to **app/Http/Controller/AppointmentController.php** and write ```[YOUR_GOOGL
 
 # Links
 <p  style="text-align=center"> <a  href="https://www.postman.com/farukceylandag/workspace/my-workspace/collection/18648050-82ac9a1d-62ca-4cc6-8c0d-04680d1882cc"  target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"  width="30" style="display:flex">&nbsp;My Postman EstateAPI Collection&nbsp;</a></p>
-<p  style="text-align=center"> <a  href="https://dashboard.heroku.com/apps/iestateapi"  target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/873/873120.png"  width="30" style="display:flex">&nbsp;Heroku&nbsp;</a></p>
